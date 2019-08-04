@@ -25,6 +25,7 @@ public class control : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
         myAnimator = GetComponent<Animator>();
 
         body = GetComponent<Rigidbody2D>();

@@ -11,9 +11,13 @@
             <e p="Readme.txt" t="Include" />
           </e>
         </e>
-        <e p="ChangeScene.cs" t="Include" />
-        <e p="control.cs" t="Include" />
-        <e p="Personagem.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="ArmaBase.cs" t="Include" />
+          <e p="ChangeScene.cs" t="Include" />
+          <e p="control.cs" t="Include" />
+          <e p="Personagem.cs" t="Include" />
+          <e p="ScriptableGun.cs" t="Include" />
+        </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
